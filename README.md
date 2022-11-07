@@ -8,8 +8,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/duraki/SketchCrapp?color=brightgreen&style=for-the-badge)
 
 
-This is just a plain fork from duraki'sc repo and a few very small tweaks to keep it going.
-Basically edited the .sh and readme consequently with newest raw git link pointing to this script.
+This is just a plain fork from duraki'sc repo and a few very small tweaks to keep it going. <br/>
+Basically edited the .sh and readme consequently with newest raw git link pointing to this script. <br/><br/>
 Sketch.App Patch Tool, brought to you by [@duraki](https://github.com/duraki) & [@elijahtsai](https://github.com/elijahtsai). This script provides you a quick and dirty way to patch Sketch.app for Unlimited Trial. You can always patch manually using Ghidra by following [this tutorial](https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html). Offsets available [here](https://github.com/duraki/SketchCrapp/blob/master/README.md#offset-table).
 
 **Download Sketch.App version of your choice here:** https://www.sketch.com/updates/
