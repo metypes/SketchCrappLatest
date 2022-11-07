@@ -1,12 +1,15 @@
 
 ![banner](https://i.imgur.com/cl2HGy0.gif)
 
-## SketchCrapp
+## SketchCrapp (Fixed to support newest dl links and Monterey+)
 ![latest supported](https://img.shields.io/badge/latest%20supported-71.2-brightgreen?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/duraki/SketchCrapp?color=brightgreen&style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/duraki/SketchCrapp?color=brightgreen&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/duraki/SketchCrapp?color=brightgreen&style=for-the-badge)
 
+
+This is just a plain fork from duraki'sc repo and a few very small tweaks to keep it going.
+Basically edited the .sh and readme consequently with newest raw git link pointing to this script.
 Sketch.App Patch Tool, brought to you by [@duraki](https://github.com/duraki) & [@elijahtsai](https://github.com/elijahtsai). This script provides you a quick and dirty way to patch Sketch.app for Unlimited Trial. You can always patch manually using Ghidra by following [this tutorial](https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html). Offsets available [here](https://github.com/duraki/SketchCrapp/blob/master/README.md#offset-table).
 
 **Download Sketch.App version of your choice here:** https://www.sketch.com/updates/
@@ -33,7 +36,7 @@ For the people who would like to try the new version, we got you covered. You ca
 #### One-liner
 One-liner script to install latest Sketch version and automatically patch it:
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/duraki/SketchCrapp/master/sketchcrapp.sh -o -)" -O -m
+bash -c "$(curl -s https://raw.githubusercontent.com/metypes/SketchCrappLatest/master/sketchcrapp.sh -o -)" -O -m
 ```
 ![magictrickimage](https://i.imgur.com/346CQK9.png)
 
