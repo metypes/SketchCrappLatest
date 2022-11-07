@@ -517,7 +517,7 @@ repository: https://github.com/duraki/SketchCrapp\n"
     finally 1
   fi
 
-  local versionListXMLURL="https://download.sketchapp.com/sketch-versions.xml"
+  local versionListXMLURL="https://download.sketch.com/sketch-versions.xml"
 
   echo "[+] Fetching $versionListXMLURL ... "
   curl -L "$versionListXMLURL" --output "/tmp/list.xml"
